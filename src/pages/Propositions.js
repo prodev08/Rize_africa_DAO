@@ -73,7 +73,7 @@ function Propositions() {
 
                         <ProgressVar
                             className="text-right sm:mt-[-15px]"
-                            width="width: 100%;"
+                            width="100%"
                             progress="70"
                             varStyle={{}}
                         />
